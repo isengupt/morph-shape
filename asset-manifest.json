@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/morph-shape/static/css/main.a92a0b70.chunk.css",
-    "main.js": "/morph-shape/static/js/main.f6df110c.chunk.js",
-    "main.js.map": "/morph-shape/static/js/main.f6df110c.chunk.js.map",
+    "main.js": "/morph-shape/static/js/main.819478e9.chunk.js",
+    "main.js.map": "/morph-shape/static/js/main.819478e9.chunk.js.map",
     "runtime-main.js": "/morph-shape/static/js/runtime-main.30984533.js",
     "runtime-main.js.map": "/morph-shape/static/js/runtime-main.30984533.js.map",
-    "static/js/2.83ea7e6b.chunk.js": "/morph-shape/static/js/2.83ea7e6b.chunk.js",
-    "static/js/2.83ea7e6b.chunk.js.map": "/morph-shape/static/js/2.83ea7e6b.chunk.js.map",
+    "static/js/2.e0e9faa7.chunk.js": "/morph-shape/static/js/2.e0e9faa7.chunk.js",
+    "static/js/2.e0e9faa7.chunk.js.map": "/morph-shape/static/js/2.e0e9faa7.chunk.js.map",
     "static/js/3.4b541d71.chunk.js": "/morph-shape/static/js/3.4b541d71.chunk.js",
     "static/js/3.4b541d71.chunk.js.map": "/morph-shape/static/js/3.4b541d71.chunk.js.map",
     "index.html": "/morph-shape/index.html",
     "static/css/main.a92a0b70.chunk.css.map": "/morph-shape/static/css/main.a92a0b70.chunk.css.map",
-    "static/js/2.83ea7e6b.chunk.js.LICENSE.txt": "/morph-shape/static/js/2.83ea7e6b.chunk.js.LICENSE.txt"
+    "static/js/2.e0e9faa7.chunk.js.LICENSE.txt": "/morph-shape/static/js/2.e0e9faa7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.30984533.js",
-    "static/js/2.83ea7e6b.chunk.js",
+    "static/js/2.e0e9faa7.chunk.js",
     "static/css/main.a92a0b70.chunk.css",
-    "static/js/main.f6df110c.chunk.js"
+    "static/js/main.819478e9.chunk.js"
   ]
 }
